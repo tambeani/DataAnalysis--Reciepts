@@ -1,4 +1,4 @@
-# DataAnalysis---FetchRewards---Data-Analyst
+# DataAnalysis---Data-Analyst
 
 Performed data analysis using SQL on Azure Data Studio
 
