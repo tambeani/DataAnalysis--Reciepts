@@ -1,4 +1,4 @@
-# DataAnalysis---Data-Analyst
+# DataAnalysis on Reciept dataset
 
 Performed data analysis using SQL on Azure Data Studio
 
